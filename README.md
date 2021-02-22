@@ -4,7 +4,7 @@ Bilibili(b站)视频下载 ![enter image description here](Pic/logo.png)
 ### Bilibili官网 - https://www.bilibili.com/
 |Author|:sunglasses:Henryhaohao:sunglasses:|
 |---|---
-|Email|:hearts:1073064953@qq.com:hearts:
+|转载|:Hexagon
 
     
 ****
@@ -44,5 +44,5 @@ pip3 install -r requirements.txt
 > - **下载完成**<br><br>
 ![enter image description here](Pic/video.png)
 ## :dolphin:**总结**
-> **最后，如果你觉得这个项目不错或者对你有帮助，给个Star呗，也算是对我学习路上的一种鼓励！<br>
+> **最后给个Star吧。<br>
  哈哈哈，感谢大家！笔芯哟~**:cupid::cupid:
