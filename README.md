@@ -1,6 +1,6 @@
 Bilibili(b站)视频下载
 ===========================
-![](https://img.shields.io/badge/Python-3.6.3-blue.svg) ![](https://img.shields.io/badge/Lowestver-2.18.4-green.svg) ![](https://img.shields.io/badge/moviepy-0.2.3.2-green.svg)
+![](https://img.shields.io/badge/Python-3.6.3-blue.svg) ![](https://img.shields.io/badge/LowestVersion-2.18.4-yellow.svg) ![](https://img.shields.io/badge/moviepy-0.2.3.2-green.svg)
 ### Bilibili官网 - https://www.bilibili.com/
 |Author|Henryhaohao|
 |---|---
